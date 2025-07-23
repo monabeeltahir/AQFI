@@ -6,7 +6,7 @@ Available: http://dx.doi.org/10.1039/D3AN01166F
 Copyright (c) 2022, Rutgers the State University of New Jersey, Muhammad Ahsan Sami, Muhammad Nabeel Tahir, and Umer Hassan
 All rights reserved.
 @authors: Muhammad Nabeel Tahir, Muhammad Ahsan Sami, Umer Hassan
-@Emails: umer.hassan@rutgers.edu
+@Emails: nabeel.tahir@rutgers.edu
 @Date: Mon Sep 12 12:40:37 2022
 @Disclaimer: The code is only intended for academic and research purposes. The distribution of the code and/or its modified versions is not allowed without the permission of the authors. 
 The authors are not responsible for any potential loss or damage caused by the code. The code should not be used in commercial applications or any product development that could be sold.
